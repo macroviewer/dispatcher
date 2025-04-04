@@ -1,0 +1,15 @@
+# MacOS convention
+.DS_Store
+
+# vscode convention
+.vscode
+
+# Jetbrain convention
+.idea
+
+# Python convention
+venv/
+env/
+
+# Rust binary
+target/
